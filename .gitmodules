@@ -1,0 +1,18 @@
+[submodule "intro_ggplot2_figures"]
+	path = intro_ggplot2_figures
+	url = https://github.com/Rekyt/intro_ggplot2_figures
+[submodule "mamm_funrar"]
+	path = mamm_funrar
+	url = https://github.com/Rekyt/mamm_funrar
+[submodule "functional_biogeo_practical"]
+	path = functional_biogeo_practical
+	url = https://github.com/Rekyt/functional_biogeo_practical
+[submodule "biodiversity_facets_tutorial"]
+	path = biodiversity_facets_tutorial
+	url = https://github.com/Rekyt/biodiversity_facets_tutorial
+[submodule "idiv-git-introduction"]
+	path = idiv-git-introduction
+	url = https://github.com/emilio-berti/idiv-git-introduction
+[submodule "macroecoevol_course"]
+	path = macroecoevol_course
+	url = https://github.com/Rekyt/macroecoevol_course
