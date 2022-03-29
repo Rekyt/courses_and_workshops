@@ -16,3 +16,6 @@
 [submodule "macroecoevol_course"]
 	path = macroecoevol_course
 	url = https://github.com/Rekyt/macroecoevol_course
+[submodule "workshop-free"]
+	path = workshop-free
+	url = https://github.com/frbcesab/workshop-free.git
