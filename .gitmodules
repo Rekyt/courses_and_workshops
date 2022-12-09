@@ -19,3 +19,6 @@
 [submodule "workshop-free"]
 	path = workshop-free
 	url = https://github.com/frbcesab/workshop-free.git
+[submodule "taxonomic_harmonization_lecture"]
+	path = taxonomic_harmonization_lecture
+	url = https://github.com/Rekyt/taxonomic_harmonization_lecture.git
